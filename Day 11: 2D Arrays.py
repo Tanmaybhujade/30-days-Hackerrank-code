@@ -1,5 +1,5 @@
 
-  
+ #!/bin/python 
 
 import sys
 
