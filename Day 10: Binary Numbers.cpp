@@ -13,4 +13,8 @@ int main(){
         if(max<count)
             max = count;
         n=n/2;
+        }
+    cout<<max;
+    return 0;
+}
     
