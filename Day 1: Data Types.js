@@ -34,7 +34,7 @@ public class Solution {
         	the 's' variable above should be printed first. */
         System.out.println(s + s2);
         
-        
+        scan.close();
     }
 }
 
