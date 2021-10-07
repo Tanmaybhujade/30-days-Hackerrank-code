@@ -1,4 +1,4 @@
-int main(){
+int main(){{
     int n;
     cin >> n;
     int max = 0;
